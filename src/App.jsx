@@ -555,7 +555,7 @@ function App() {
                                   {adopter.codigo} · {adopter.periodo}
                                 </span>
  
-                                <h4>{adopter.adoptante}</h4>
+                                <h4>IAPCH - {adopter.adoptante}</h4>
  
                                 <div className="popup-row">
                                   <strong>Proyecto</strong>
